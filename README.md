@@ -1,1 +1,1 @@
-# ga_paham
+ga paham, tak pake yang kalkulator, sama yang hikaricp, tak pindah dependency, trus masukin modul, yg datasource tak set, ngambil data awalnya tak buat di method tombol, trus nge crash, akhirnya tak buat di helloapplication, tak buat public static, sama tak extend.
